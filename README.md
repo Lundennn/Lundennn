@@ -1,48 +1,38 @@
-<!-- Темный волновой баннер с вашим ником -->
 <p align="center">
-  <img src="https://vercel.app" width="100%" />
+    <img src="assets/271a40e8e1b536324f1f75aed61e7284.gif" width="100%" />
 </p>
-
-<!-- Печатающийся текст в стиле терминала -->
-<p align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</p>
-
----
-
-### `>_` About me
-
-- 💻 I'm a beginner **Frontend Developer** and **Cybersecurity Enthusiast**
-- 🌱 Currently learning: **HTML, CSS, JavaScript, Linux & Web Security**
-- 🎯 Goal: Build secure, fast, and clean web applications
-- ⚡ Fun fact: *Здесь добавим интересный факт о вас*
-
----
-
-### `>_` Languages & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev" />
-</p>
-
----
-
-### `>_` GitHub Stats
 
 <p align="center">
-  <img src="https://vercel.app" height="165" />
-  <img src="https://vercel.app" height="165" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+mono&size=24&pause=1000&color=FDCCD0&center=true&vCenter=true&width=600&lines=Hello everyone, I'm Vyacheslav" alt="Typing SVG"/></a>
 </p>
-
----
-
-### `>_` Follow me
-
-<p align="left">
-  <a href="https://t.me" target="_blank">
-    <img src="https://shields.io" />
+<p align="center">
+  <a href="https://t.me/lluunnddeenn" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="mailto:ваша_почта@gmail.com">
-    <img src="https://shields.io" />
+</p>
+
+---
+
+<h2 align="center"><code>&gt;_</code> About me</h2>
+<br>
+<p align="center" >
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+mono&size=18&pause=1000&color=FDCCD0&center=true&vCenter=true&repeat=false&width=800&lines=I'm a beginner Frontend Developer and Cybersecurity Student" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+mono&size=18&pause=1000&color=FDCCD0&center=true&vCenter=true&repeat=false&width=800&lines=Currently learning: HTML, CSS, JavaScript, Python, C#, Linux & Cybersecurity" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+mono&size=18&pause=1000&color=FDCCD0&center=true&vCenter=true&repeat=false&width=800&lines=Currently learning: Build secure, fast, and clean web applications" alt="Typing SVG" /></a>
+</p>
+
+
+---
+
+<h2 align="center"><code>&gt;_</code> Languages & Tools</h2>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,cs" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,figma,postgres,postman" />
   </a>
 </p>
